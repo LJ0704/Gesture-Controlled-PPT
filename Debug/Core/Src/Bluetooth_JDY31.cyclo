@@ -1,0 +1,4 @@
+../Core/Src/Bluetooth_JDY31.c:36:6:Init_USART1	1
+../Core/Src/Bluetooth_JDY31.c:78:6:uart_send	2
+../Core/Src/Bluetooth_JDY31.c:95:9:uart_recv	2
+../Core/Src/Bluetooth_JDY31.c:107:6:uart1_print	2

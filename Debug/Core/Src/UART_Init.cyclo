@@ -1,0 +1,2 @@
+../Core/Src/UART_Init.c:35:6:Init_USART2	1
+../Core/Src/UART_Init.c:74:5:__io_putchar	2

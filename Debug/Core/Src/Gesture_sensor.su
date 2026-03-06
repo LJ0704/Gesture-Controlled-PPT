@@ -1,0 +1,5 @@
+../Core/Src/Gesture_sensor.c:34:6:I2C_Init	8	static
+../Core/Src/Gesture_sensor.c:70:6:I2C_WriteReg	24	static
+../Core/Src/Gesture_sensor.c:101:6:I2C_ReadReg	24	static
+../Core/Src/Gesture_sensor.c:131:6:DR_Pin_Init	8	static
+../Core/Src/Gesture_sensor.c:147:9:Gesture_DataReady	8	static
